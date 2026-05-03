@@ -1,0 +1,4 @@
+.venv/
+brain_tumor_dataset/
+*.h5
+__pycache__/
